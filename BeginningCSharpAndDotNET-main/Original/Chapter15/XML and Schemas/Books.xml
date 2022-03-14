@@ -1,0 +1,12 @@
+<books>
+  <book>
+    <title>Beginning C# and .NET</title>
+    <author>Benjamin Perkins and Jon Reid</author>
+    <code>978-1119795780</code>
+  </book>
+  <book>
+    <title>Beginning XML</title>
+    <author>Joe Fawcett et al</author>
+    <code>978-1118162132</code>
+  </book>
+</books>
