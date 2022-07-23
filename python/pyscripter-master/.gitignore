@@ -1,0 +1,54 @@
+# Compiled source #
+###################
+*.dcu
+*.obj
+*.exe
+*.bpl
+*.bpi
+*.dcp
+*.rsm
+*.stat
+*.map
+*.jdbg
+*.mo
+*.chm
+
+# Generated source #
+###################
+*.hpp
+
+# Backup files    #
+###################
+*.~*
+__recovery/
+
+# IDE Files	  #
+###################
+*.dproj.local
+*.groupproj.local
+*.identcache
+*.dsk
+*.tvsconfig
+*.otares
+*.drc
+*.rc
+*.res
+*.local
+*.prjmgc
+*.user
+
+# Output Folders  #
+###################
+/Win32
+/Win64
+/OSX32
+/Install/Output
+/__history
+*.bak
+*.Patch
+VirtualTreeView.zip
+*.#00
+*.pch
+/*.chw
+*.chw
+/Lib/Lsp/jls/jedilsp

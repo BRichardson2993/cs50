@@ -1,0 +1,16 @@
+﻿*********** これは64bitバージョンのPyScripterです *************
+64-bitバージョンのWindowsが必要です。 PyScripterは64-bitバージョンのPythonが
+インストールされている環境でのみ動作します。
+
+PyScripterを使う前に、あなたの端末に 3.6 以降のバージョンのPythonが
+インストールされていることを確認してください。
+もしインストールされていないのならば http://www.python.org/
+からダウンロードできます。
+
+https://github.com/pyscripter/pyscripter/wiki を訪れると、リモートデバッグや
+その他のPyScripterに関する項目についての情報が手に入ります。
+
+PyScripter の最新バージョンは以下をチェックしてください。
+https://sourceforge.net/projects/pyscripter/files/
+
+PyScripterを使ってくれてありがとう！
